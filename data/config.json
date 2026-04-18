@@ -1,0 +1,41 @@
+{
+  "order": [
+    "photo-1774423864869-702b21c2490a-2.jpg",
+    "15561861_1080_1920_30fps.mp4",
+    "photo-1775244560938-b469a7e639c7.jpg",
+    "pexels-frank-cone-140140-3607542.jpg",
+    "coverr-urban-oasis-city-beyond-the-trees-1080p.mp4",
+    "ephemeride_2026-04-17_12h.jpg",
+    "collioure-france-les-gens-touristes-se-reposent-et-marchent-sur-la-cote-a-travers-la-baie.mp4"
+  ],
+  "durations": {},
+  "disabled": [
+    "photo-1774423864869-702b21c2490a-2.jpg"
+  ],
+  "screens": {
+    "cdi": {
+      "order": [
+        "photo-1774423864869-702b21c2490a-2.jpg",
+        "15561861_1080_1920_30fps.mp4",
+        "photo-1775244560938-b469a7e639c7.jpg",
+        "pexels-frank-cone-140140-3607542.jpg"
+      ],
+      "disabled": [],
+      "durations": {},
+      "schedules": {}
+    },
+    "cuisine": {
+      "order": [
+        "15561861_1080_1920_30fps.mp4",
+        "photo-1774423864869-702b21c2490a-2.jpg",
+        "coverr-urban-oasis-city-beyond-the-trees-1080p.mp4",
+        "photo-1775244560938-b469a7e639c7.jpg",
+        "pexels-frank-cone-140140-3607542.jpg",
+        "ephemeride_2026-04-17_12h.jpg"
+      ],
+      "disabled": [],
+      "durations": {},
+      "schedules": {}
+    }
+  }
+}
